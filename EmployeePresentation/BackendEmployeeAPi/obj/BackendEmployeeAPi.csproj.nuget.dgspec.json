@@ -1,0 +1,313 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/BackendEmployeeAPi.csproj": {}
+  },
+  "projects": {
+    "/Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/ApplicationEmployee.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/ApplicationEmployee.csproj",
+        "projectName": "ApplicationEmployee",
+        "projectPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/ApplicationEmployee.csproj",
+        "packagesPath": "/Users/aby/.nuget/packages/",
+        "outputPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aby/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/DomainEmployee.csproj": {
+                "projectPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/DomainEmployee.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aby/Projects/EmployeeCleanArchitProjet/ArchitectureEmployee/ArchitectureEmployee.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aby/Projects/EmployeeCleanArchitProjet/ArchitectureEmployee/ArchitectureEmployee.csproj",
+        "projectName": "ArchitectureEmployee",
+        "projectPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/ArchitectureEmployee/ArchitectureEmployee.csproj",
+        "packagesPath": "/Users/aby/.nuget/packages/",
+        "outputPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/ArchitectureEmployee/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aby/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/ApplicationEmployee.csproj": {
+                "projectPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/ApplicationEmployee.csproj"
+              },
+              "/Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/DomainEmployee.csproj": {
+                "projectPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/DomainEmployee.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/DomainEmployee.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/DomainEmployee.csproj",
+        "projectName": "DomainEmployee",
+        "projectPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/DomainEmployee.csproj",
+        "packagesPath": "/Users/aby/.nuget/packages/",
+        "outputPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aby/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/BackendEmployeeAPi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/BackendEmployeeAPi.csproj",
+        "projectName": "BackendEmployeeAPi",
+        "projectPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/BackendEmployeeAPi.csproj",
+        "packagesPath": "/Users/aby/.nuget/packages/",
+        "outputPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/aby/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/ApplicationEmployee.csproj": {
+                "projectPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/ApplicationEmployee.csproj"
+              },
+              "/Users/aby/Projects/EmployeeCleanArchitProjet/ArchitectureEmployee/ArchitectureEmployee.csproj": {
+                "projectPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/ArchitectureEmployee/ArchitectureEmployee.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

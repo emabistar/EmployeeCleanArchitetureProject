@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "DomainEmployee/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/DomainEmployee.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DomainEmployee.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DomainEmployee/1.0.0": {
+      "type": "project",
+      "path": "../DomainEmployee/DomainEmployee.csproj",
+      "msbuildProject": "../DomainEmployee/DomainEmployee.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "DomainEmployee >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/aby/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/ApplicationEmployee.csproj",
+      "projectName": "ApplicationEmployee",
+      "projectPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/ApplicationEmployee.csproj",
+      "packagesPath": "/Users/aby/.nuget/packages/",
+      "outputPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/aby/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/DomainEmployee.csproj": {
+              "projectPath": "/Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/DomainEmployee.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.201/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/compressed/cae067mg31.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/scopedcss/bundle/FrontedUIEmployee.styles.css",
+      "PackagePath": "staticwebassets/FrontedUIEmployee.styles.css"
+    },
+    {
+      "Id": "/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.FrontedUIEmployee.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.FrontedUIEmployee.props",
+      "PackagePath": "build\\FrontedUIEmployee.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.FrontedUIEmployee.props",
+      "PackagePath": "buildMultiTargeting\\FrontedUIEmployee.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.FrontedUIEmployee.props",
+      "PackagePath": "buildTransitive\\FrontedUIEmployee.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
