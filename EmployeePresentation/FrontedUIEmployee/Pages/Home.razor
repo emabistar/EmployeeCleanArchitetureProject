@@ -55,8 +55,8 @@
                              <td>@item.Id</td>
                              <td>@item.Name</td>
                              <td>@item.Address</td>
-                             <td><button class="btn btn-info btn-sm"@onclick="()=>EditClick(item)">X</button>Edit</td> I
-                             <td><button class="btn btn-danger btn-sm"@onclick="()=>DeleteClick(item.Id)">X</button></td>
+                             <td><button class="btn btn-info btn-sm "@onclick="()=>EditClick(item)">X</button>|
+                             <button class="btn btn-danger btn-sm"@onclick="()=>DeleteClick(item.Id)">X</button></td>
                          </tr>
                     }
 
