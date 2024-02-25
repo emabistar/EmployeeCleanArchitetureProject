@@ -9,10 +9,12 @@
   <ItemGroup>
     <None Remove="Dtos\" />
     <None Remove="Contracts\" />
+    <None Remove="Services\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Dtos\" />
     <Folder Include="Contracts\" />
+    <Folder Include="Services\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DomainEmployee\DomainEmployee.csproj" />

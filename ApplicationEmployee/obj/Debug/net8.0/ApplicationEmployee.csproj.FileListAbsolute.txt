@@ -8,6 +8,7 @@
 /Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/obj/Debug/net8.0/ApplicationEmployee.AssemblyInfoInputs.cache
 /Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/obj/Debug/net8.0/ApplicationEmployee.AssemblyInfo.cs
 /Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/obj/Debug/net8.0/ApplicationEmployee.csproj.CoreCompileInputs.cache
+/Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/obj/Debug/net8.0/ApplicationEmployee.sourcelink.json
 /Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/obj/Debug/net8.0/Applicat.4E2F91CF.Up2Date
 /Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/obj/Debug/net8.0/ApplicationEmployee.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/ApplicationEmployee/obj/Debug/net8.0/refint/ApplicationEmployee.dll

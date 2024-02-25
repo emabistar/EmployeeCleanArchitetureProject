@@ -32,6 +32,7 @@
 /Users/aby/Projects/EmployeeCleanArchitProjet/FrontendUIEmployee/BackendEmployeeAPi/obj/Debug/net8.0/ref/BackendEmployeeAPi.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/appsettings.Development.json
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/appsettings.json
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/BackendEmployeeAPi.staticwebassets.runtime.json
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/BackendEmployeeAPi
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/BackendEmployeeAPi.deps.json
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/BackendEmployeeAPi.runtimeconfig.json
@@ -64,6 +65,7 @@
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/NetcodeHub.Packages.Components.Validations.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -145,6 +147,12 @@
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/ApplicationEmployee.dll
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/ArchitectureEmployee.dll
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/DomainEmployee.dll
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/ArchitectureEmployee.pdb
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/ApplicationEmployee.pdb
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/DomainEmployee.pdb
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/obj/Debug/net8.0/BackendEmployeeAPi.csproj.AssemblyReference.cache
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/obj/Debug/net8.0/BackendEmployeeAPi.GeneratedMSBuildEditorConfig.editorconfig
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/obj/Debug/net8.0/BackendEmployeeAPi.AssemblyInfoInputs.cache
@@ -152,6 +160,7 @@
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/obj/Debug/net8.0/BackendEmployeeAPi.csproj.CoreCompileInputs.cache
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/obj/Debug/net8.0/BackendEmployeeAPi.MvcApplicationPartsAssemblyInfo.cs
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/obj/Debug/net8.0/BackendEmployeeAPi.MvcApplicationPartsAssemblyInfo.cache
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/obj/Debug/net8.0/BackendEmployeeAPi.sourcelink.json
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/obj/Debug/net8.0/staticwebassets.build.json
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/obj/Debug/net8.0/staticwebassets.development.json
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/obj/Debug/net8.0/staticwebassets/msbuild.BackendEmployeeAPi.Microsoft.AspNetCore.StaticWebAssets.props
@@ -166,9 +175,3 @@
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/obj/Debug/net8.0/BackendEmployeeAPi.pdb
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/obj/Debug/net8.0/BackendEmployeeAPi.genruntimeconfig.cache
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/obj/Debug/net8.0/ref/BackendEmployeeAPi.dll
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/ApplicationEmployee.dll
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/ArchitectureEmployee.dll
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/DomainEmployee.dll
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/ArchitectureEmployee.pdb
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/ApplicationEmployee.pdb
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/BackendEmployeeAPi/bin/Debug/net8.0/DomainEmployee.pdb

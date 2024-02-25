@@ -1,17 +1,24 @@
-﻿<Properties StartupConfiguration="{61DA0468-75E8-40CD-9841-B55874DAE020}|https">
+﻿<Properties StartupConfiguration="{608039A6-148A-4D64-8A21-72F02DFE3D43}|https">
   <MonoDevelop.Ide.ItemProperties.EmployeePresentation.BackendEmployeeAPi PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ArchitectureEmployee/Data/EmployeeContext.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmployeePresentation/FrontedUIEmployee/Pages/Weather.razor">
     <Files>
       <File FileName="DomainEmployee/Entities/Employee.cs" />
-      <File FileName="ArchitectureEmployee/Data/EmployeeContext.cs" Line="23" Column="9" />
-      <File FileName="ApplicationEmployee/Dtos/EmployeeResponse.cs" Line="1" Column="1" />
-      <File FileName="ApplicationEmployee/Contracts/IEmployee.cs" Line="1" Column="1" />
-      <File FileName="ArchitectureEmployee/Emplementation/EmployeeRepos.cs" Line="1" Column="1" />
-      <File FileName="EmployeePresentation/BackendEmployeeAPi/appsettings.json" Line="3" Column="63" />
-      <File FileName="EmployeePresentation/BackendEmployeeAPi/Program.cs" Line="14" Column="77" />
-      <File FileName="ArchitectureEmployee/ArchitectureEmployee.csproj" Line="1" Column="1" />
-      <File FileName="EmployeePresentation/BackendEmployeeAPi/BackendEmployeeAPi.csproj" Line="1" Column="1" />
+      <File FileName="ArchitectureEmployee/Data/EmployeeContext.cs" />
+      <File FileName="ArchitectureEmployee/Emplementation/EmployeeRepos.cs" />
+      <File FileName="ArchitectureEmployee/ArchitectureEmployee.csproj" />
+      <File FileName="EmployeePresentation/BackendEmployeeAPi/Program.cs" />
+      <File FileName="EmployeePresentation/BackendEmployeeAPi/appsettings.json" />
+      <File FileName="ApplicationEmployee/Contracts/IEmployee.cs" />
+      <File FileName="EmployeePresentation/BackendEmployeeAPi/Controllers/WeatherForecastController.cs" />
+      <File FileName="EmployeePresentation/BackendEmployeeAPi/Controllers/EmployeeController.cs" />
+      <File FileName="ApplicationEmployee/Services/IEmployeeService.cs" />
+      <File FileName="ApplicationEmployee/Services/EmployeeService.cs" />
+      <File FileName="EmployeePresentation/FrontedUIEmployee/Program.cs" />
+      <File FileName="EmployeePresentation/BackendEmployeeAPi/Properties/launchSettings.json" Line="26" Column="44" />
+      <File FileName="EmployeePresentation/FrontedUIEmployee/Pages/Home.razor" Line="35" Column="38" />
+      <File FileName="EmployeePresentation/FrontedUIEmployee/Pages/Counter.razor" Line="1" Column="1" />
+      <File FileName="EmployeePresentation/FrontedUIEmployee/Pages/Weather.razor" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,27 +27,23 @@
             <Node name="EmployeePresentation" expanded="True">
               <Node name="BackendEmployeeAPi" expanded="True">
                 <Node name="Dependencies" expanded="True" />
+                <Node name="Controllers" expanded="True" />
+                <Node name="Properties" expanded="True" />
+              </Node>
+              <Node name="FrontedUIEmployee">
+                <Node name="Dependencies" expanded="True" />
               </Node>
             </Node>
             <Node name="ApplicationEmployee" expanded="True">
-              <Node name="Contracts" expanded="True" />
-              <Node name="Dtos" expanded="True" />
-            </Node>
-            <Node name="ArchitectureEmployee" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="EmployeeContext.cs" selected="True" />
-              </Node>
-              <Node name="Emplementation" expanded="True" />
+              <Node name="Services" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.ApplicationEmployee FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.DomainEmployee FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EmployeePresentation.FrontedUIEmployee PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.ArchitectureEmployee FirstBuild="True" />
   <DisabledProjects>
     <String>FrontedUI/FrontedUI.csproj</String>
     <String>BackendApi/BackendApi.csproj</String>

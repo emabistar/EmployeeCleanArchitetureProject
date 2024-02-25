@@ -11,6 +11,7 @@
 /Users/aby/Projects/EmployeeCleanArchitProjet/ArchitectureEmployee/obj/Debug/net8.0/ArchitectureEmployee.AssemblyInfoInputs.cache
 /Users/aby/Projects/EmployeeCleanArchitProjet/ArchitectureEmployee/obj/Debug/net8.0/ArchitectureEmployee.AssemblyInfo.cs
 /Users/aby/Projects/EmployeeCleanArchitProjet/ArchitectureEmployee/obj/Debug/net8.0/ArchitectureEmployee.csproj.CoreCompileInputs.cache
+/Users/aby/Projects/EmployeeCleanArchitProjet/ArchitectureEmployee/obj/Debug/net8.0/ArchitectureEmployee.sourcelink.json
 /Users/aby/Projects/EmployeeCleanArchitProjet/ArchitectureEmployee/obj/Debug/net8.0/Architec.BA807A4F.Up2Date
 /Users/aby/Projects/EmployeeCleanArchitProjet/ArchitectureEmployee/obj/Debug/net8.0/ArchitectureEmployee.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/ArchitectureEmployee/obj/Debug/net8.0/refint/ArchitectureEmployee.dll

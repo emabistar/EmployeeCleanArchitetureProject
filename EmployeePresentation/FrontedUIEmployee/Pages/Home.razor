@@ -1,8 +1,92 @@
-﻿@page "/"
+﻿
+@page "/"
+
+<PageTitle>Home</PageTitle>
+@using NetcodeHub.Packages.Components.Validations.OnInput
+@using NetcodeHub.Packages.Components.Toast
+@using Microsoft.AspNetCore.Components.Forms
+@using DomainEmployee.Entities
+@inject IEmployeeService emp
+@inject ToastService toastService
 
 <PageTitle>Home</PageTitle>
 
-<h1>Hello, world!</h1>
+<div class="col">
+    <div class="col-lg-8 offset-2">
+        <EditForm Model="employee" OnValidSubmit="Save">
+            <DataAnnotationsValidator />
+            <FloatingText @bind-Value="employee.Name"
+                          Label="Customer FullName"
+                          PlaceHolder="John Doe"
+                          class="form-control mb-3" />
+            <ValidationMessage For="()=>employee.Name" />
 
-Welcome to your new app.
+            <FloatingTextArea @bind-Value="employee.Address"
+                              Label="Custom Address"
+                              PlaceHolder="e.g Danmark Eu"
+                              class="form-control mb-3" />
+            <ValidationMessage For="()=>employee.Address" />
+            <button class="btn btn-primary mt-5 mb-5 " type="submit">Save</button>
+        </EditForm>
 
+    </div>
+</div>
+<hr/>
+<div class="col-lg-8 offset-2">
+    <table class="table table-striped">
+        
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Adrdress</th>
+                    <th>Action</th>
+
+                </tr>
+                
+                
+            </thead>
+        <tbody>
+            @if(Employees is not null)
+                {
+                    foreach(var item in Employees)
+                    {
+                         <tr>
+                             <td>@item.Id</td>
+                             <td>@item.Name</td>
+                             <td>@item.Address</td>
+                             <td><button class="btn btn-danger btn-sm">X</button></td>
+                         </tr>
+                    }
+
+                }
+        </tbody>
+        
+
+    </table>
+
+</div>
+<Toast Duration="@duration" Persist="true" @ref="toastService.ToastComponent"/>
+
+@code{
+    int duration =4000;
+    Employee employee = new Employee();
+
+    async Task Save()
+    {
+        var(flag, Message) = await emp.AddAsync(employee);
+        if (!flag)
+        {
+            duration = 5000;
+            toastService.ShowErrorToast("Alert", Message);
+            return;
+        }
+        toastService.ShowSuccessToast("Success", Message);
+    }
+
+    List<Employee> Employees = new();
+    protected override async Task OnInitializedAsync()
+    {
+        Employees = await emp.GetAllAsync();
+    }
+}

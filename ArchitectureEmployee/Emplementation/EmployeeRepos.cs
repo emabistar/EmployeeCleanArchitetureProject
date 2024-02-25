@@ -18,6 +18,9 @@ namespace ArchitectureEmployee.Emplementation
 
         public async Task<EmployeeResponse> AddAsync(Employee employee)
         {
+              var check = _context.Employees.FirstOrDefault(e => e.Name.ToLower() == employee.Name.ToLower());
+              if (check != null)
+              return new EmployeeResponse(false, "User already Exist");
             _context.Employees.Add(employee);
             await SaveAsync();
             return new EmployeeResponse(true, "Employeee added");

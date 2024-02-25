@@ -5,6 +5,7 @@
 /Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/obj/Debug/net8.0/DomainEmployee.AssemblyInfoInputs.cache
 /Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/obj/Debug/net8.0/DomainEmployee.AssemblyInfo.cs
 /Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/obj/Debug/net8.0/DomainEmployee.csproj.CoreCompileInputs.cache
+/Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/obj/Debug/net8.0/DomainEmployee.sourcelink.json
 /Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/obj/Debug/net8.0/DomainEmployee.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/obj/Debug/net8.0/refint/DomainEmployee.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/DomainEmployee/obj/Debug/net8.0/DomainEmployee.pdb
