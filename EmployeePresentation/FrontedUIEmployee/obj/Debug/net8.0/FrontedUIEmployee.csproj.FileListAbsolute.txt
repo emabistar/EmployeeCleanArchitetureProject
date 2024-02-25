@@ -1,10 +1,3 @@
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/FrontedUIEmployee.csproj.AssemblyReference.cache
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/FrontedUIEmployee.GeneratedMSBuildEditorConfig.editorconfig
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/FrontedUIEmployee.AssemblyInfoInputs.cache
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/FrontedUIEmployee.AssemblyInfo.cs
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/FrontedUIEmployee.csproj.CoreCompileInputs.cache
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/FrontedUIEmployee.MvcApplicationPartsAssemblyInfo.cache
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/FrontedUIEmployee.sourcelink.json
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/ApplicationEmployee.pdb
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/ApplicationEmployee.wasm
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/ArchitectureEmployee.pdb
@@ -72,6 +65,7 @@
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Win32.Registry.wasm
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/Microsoft.Win32.SystemEvents.wasm
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/mscorlib.wasm
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/NetcodeHub.Packages.Components.Toast.wasm
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/NetcodeHub.Packages.Components.Validations.wasm
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/netstandard.wasm
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/System.AppContext.wasm
@@ -427,6 +421,7 @@
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/System.Collections.Specialized.wasm.gz
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/NetcodeHub.Packages.Components.Validations.wasm.gz
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/System.Xml.XDocument.wasm.gz
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/NetcodeHub.Packages.Components.Toast.wasm.gz
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/System.IO.Compression.wasm.gz
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/System.Reflection.Emit.Lightweight.wasm.gz
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/System.IO.Compression.Brotli.wasm.gz
@@ -528,6 +523,7 @@
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/Microsoft.JSInterop.WebAssembly.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/NetcodeHub.Packages.Components.Toast.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/NetcodeHub.Packages.Components.Validations.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/System.Drawing.Common.dll
@@ -721,6 +717,13 @@
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/ApplicationEmployee.pdb
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/DomainEmployee.pdb
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/ArchitectureEmployee.pdb
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/FrontedUIEmployee.csproj.AssemblyReference.cache
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/FrontedUIEmployee.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/FrontedUIEmployee.AssemblyInfoInputs.cache
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/FrontedUIEmployee.AssemblyInfo.cs
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/FrontedUIEmployee.csproj.CoreCompileInputs.cache
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/FrontedUIEmployee.MvcApplicationPartsAssemblyInfo.cache
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/FrontedUIEmployee.sourcelink.json
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/webcil/Azure.Core.wasm
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/webcil/Azure.Identity.wasm
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/webcil/Microsoft.AspNetCore.Authorization.wasm
@@ -763,6 +766,7 @@
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/webcil/Microsoft.JSInterop.WebAssembly.wasm
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/webcil/Microsoft.SqlServer.Server.wasm
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/webcil/Microsoft.Win32.SystemEvents.wasm
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/webcil/NetcodeHub.Packages.Components.Toast.wasm
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/webcil/NetcodeHub.Packages.Components.Validations.wasm
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/webcil/System.Configuration.ConfigurationManager.wasm
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/webcil/System.Drawing.Common.wasm
@@ -1001,6 +1005,7 @@
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/compressed/3nm3v5qeco.gz
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/compressed/0cejycs3my.gz
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/compressed/4hqrav4bg8.gz
+/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/compressed/skdvknp6ag.gz
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/compressed/s6wq0xle4b.gz
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/compressed/xo8xcc50ip.gz
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/compressed/20t36lbchr.gz
@@ -1202,8 +1207,3 @@
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/refint/FrontedUIEmployee.dll
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/FrontedUIEmployee.pdb
 /Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/ref/FrontedUIEmployee.dll
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/NetcodeHub.Packages.Components.Toast.wasm
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/wwwroot/_framework/NetcodeHub.Packages.Components.Toast.wasm.gz
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/bin/Debug/net8.0/NetcodeHub.Packages.Components.Toast.dll
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/webcil/NetcodeHub.Packages.Components.Toast.wasm
-/Users/aby/Projects/EmployeeCleanArchitProjet/EmployeePresentation/FrontedUIEmployee/obj/Debug/net8.0/compressed/skdvknp6ag.gz

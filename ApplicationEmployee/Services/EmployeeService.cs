@@ -22,7 +22,7 @@ namespace ApplicationEmployee.Services
             return response!;
         }
 
-        public async Task<EmployeeResponse> deleteAsync(int id)
+        public async Task<EmployeeResponse> DeleteAsync(int id)
         {
 
             var data = await _httpClient.DeleteAsync($"api/employee/{id}");

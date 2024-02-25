@@ -55,7 +55,8 @@
                              <td>@item.Id</td>
                              <td>@item.Name</td>
                              <td>@item.Address</td>
-                             <td><button class="btn btn-danger btn-sm">X</button></td>
+                             <td><button class="btn btn-info btn-sm"@onclick="()=>EditClick(item)">X</button>Edit</td> I
+                             <td><button class="btn btn-danger btn-sm"@onclick="()=>DeleteClick(item.Id)">X</button></td>
                          </tr>
                     }
 
@@ -74,19 +75,33 @@
 
     async Task Save()
     {
-        var(flag, Message) = await emp.AddAsync(employee);
-        if (!flag)
+        var response = new EmployeeResponse(false,null!);
+        if (employee.Id > 0)
+            response = await emp.UpdateAsync(employee);
+        else
+            response = await emp.AddAsync(employee);
+
+        if (!response.flag)
         {
             duration = 5000;
-            toastService.ShowErrorToast("Alert", Message);
+            toastService.ShowErrorToast("Alert", response.Message);
             return;
         }
-        toastService.ShowSuccessToast("Success", Message);
+        toastService.ShowSuccessToast("Success", response.Message);
+        await  GetData();
     }
 
     List<Employee> Employees = new();
-    protected override async Task OnInitializedAsync()
+    protected override async Task OnInitializedAsync()=> await GetData();
+
+    private async Task GetData() =>   Employees = await emp.GetAllAsync();
+
+    void EditClick(Employee employeeToedit) => employee = employeeToedit;
+
+    async void DeleteClick(int id)
     {
-        Employees = await emp.GetAllAsync();
+        var (flag, Message) = await emp.DeleteAsync(id);
+        await  GetData();
+        StateHasChanged();
     }
 }

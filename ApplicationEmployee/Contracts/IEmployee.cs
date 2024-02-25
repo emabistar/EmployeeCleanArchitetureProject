@@ -8,7 +8,7 @@ namespace ApplicationEmployee.Contracts
 	{
         Task<EmployeeResponse> AddAsync(Employee employee);
         Task<EmployeeResponse> UpdateAsync(Employee employee);
-        Task<EmployeeResponse> deleteAsync(int id);
+        Task<EmployeeResponse> DeleteAsync(int id);
         Task<List<Employee>> GetAllAsync();
         Task<Employee> GetByIdAsync(int id);
     }

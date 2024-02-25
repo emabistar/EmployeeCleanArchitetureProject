@@ -26,11 +26,12 @@ namespace ArchitectureEmployee.Emplementation
             return new EmployeeResponse(true, "Employeee added");
         }
 
-        public async Task<EmployeeResponse> deleteAsync(int id)
+        public async Task<EmployeeResponse> DeleteAsync(int id)
         {
             var employee = await _context.Employees.FindAsync(id);
             if (employee == null)
                 return new EmployeeResponse(false, "User not found");
+
             _context.Employees.Remove(employee);
             await SaveAsync();
             return new EmployeeResponse(true, "Employee deleted");

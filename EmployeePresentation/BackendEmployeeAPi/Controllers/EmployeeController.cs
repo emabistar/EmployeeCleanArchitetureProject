@@ -56,7 +56,7 @@ namespace BackendEmployeeAPi.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
-            var result = await _employee.deleteAsync(id);
+            var result = await _employee.DeleteAsync(id);
             return Ok(result);
         }
     }
